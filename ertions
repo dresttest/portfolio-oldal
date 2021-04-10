@@ -1,0 +1,35 @@
+[33mcommit b011ee660f6186e6b67a02ce444d2a51cef2439f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Emen <drest9898@gmail.com>
+Date:   Sat Apr 10 18:30:35 2021 +0200
+
+    style.css h1 underline
+
+[33mcommit e5c0a7ab81f09e3c3b3ffe537f13c03c2d8ed4c7[m
+Author: Emen <drest9898@gmail.com>
+Date:   Sat Apr 10 18:25:51 2021 +0200
+
+    rem mértékegység bevezetése a style.css fájlban
+
+[33mcommit 957c86f67f6fef02b9dcc1d9642e73f855db6e0c[m
+Author: Emen <drest9898@gmail.com>
+Date:   Sat Apr 10 18:24:12 2021 +0200
+
+    style.css fájlra való hivatkozás
+
+[33mcommit a685790e87e7ee53a9d4f5140c1d6396de6f4562[m
+Author: Emen <drest9898@gmail.com>
+Date:   Sat Apr 10 18:20:21 2021 +0200
+
+    styles.css létrehozva
+
+[33mcommit 226c7d8e62eb7182b8512aa171e295a4326574f5[m
+Author: Emen <drest9898@gmail.com>
+Date:   Sat Apr 10 18:16:28 2021 +0200
+
+    Új bekezdés az index.html-ben.
+
+[33mcommit 88b69a7f37aef4365621ea3e5a95979f7b509b65[m
+Author: Emen <drest9898@gmail.com>
+Date:   Sat Apr 10 18:08:19 2021 +0200
+
+    Első commit. index.html
